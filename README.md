@@ -1,2 +1,2 @@
-# create_thumbnail
+# create_thumbnail by specific dir
 create_thumbnail
