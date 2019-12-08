@@ -1,0 +1,61 @@
+saveIncrementally();  
+  
+function saveIncrementally() {  
+     try {  
+          var saveFolder = "d:\projects\project name\scans\processed";  
+          if (!Folder(saveFolder).exists) {  
+               saveFolder = Folder.selectDialog("Select output folder");  
+          if (!saveFolder)  
+               return;  
+     }  
+       
+     var saveExt = 'jpg';  
+     var saveSufixStart = '_';  
+     var saveSufixLength = 3;  
+  
+  
+     // End of user options  
+     //==========================================  
+  
+  
+     var docName = decodeURI ( activeDocument.name );  
+     var dot = docName.lastIndexOf(".");  
+     var saveName = docName.slice(0, dot);  
+  
+  
+     var suffix = zeroPad(0, saveSufixLength);  
+     var myFile = saveFolder + "/" + saveName + "_" + suffix + ".jpg";  
+  
+  
+     while (File(myFile).exists) {  
+          var suffixInteger = parseInt(suffix, 10);  
+               suffixInteger += 1;  
+          suffix = zeroPad(suffixInteger, 3);  
+          myFile = saveFolder + "/" + saveName + "_" + suffix + ".jpg";  
+     }  
+  
+  
+     saveJPEG(myFile, 8)  
+  
+  
+     function saveJPEG(saveFile, qty ) {   
+          var saveOptions = new JPEGSaveOptions();   
+          saveOptions.embedColorProfile = true;        
+          saveOptions.formatOptions = FormatOptions.STANDARDBASELINE;   
+          saveOptions.matte = MatteType.NONE;   
+          saveOptions.quality = qty;   
+          app.activeDocument.saveAs( File(saveFile), saveOptions, true );   
+     }  
+  
+  
+     function zeroPad ( num, digit ){  
+          var tmp = num.toString();  
+          while (tmp.length < digit) { tmp = "0" + tmp;}  
+          return tmp;  
+     }  
+  
+  
+     } catch(e) {  
+          alert(e.toString() + "\nLine: " + e.line.toString())  
+     }  
+}  
