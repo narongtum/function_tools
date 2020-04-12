@@ -6,6 +6,7 @@
 * :movie_camera: [Python](#Python)
 * :movie_camera: [Technical](#Technical)
 * :movie_camera: [Blender](#Blender)
+* :book: [บทความดีๆ](#บทความดีๆ)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -25,3 +26,15 @@
 
 ## [Blender]
 * [simulate หมอนโซฟา](https://www.youtube.com/watch?v=V1HxV1aEBik&feature=youtu.be&fbclid=IwAR2O50I_D0aD4ksXZgwh1m0tkYM1X2azYHYR7ns_2I4EQWVnryy0QRIdhg4)
+* [ทำลูกโป่งอัดลม](https://www.youtube.com/watch?v=QxQ1GIGwslk)
+* [อธิบาย material node ](https://www.youtube.com/watch?v=cQ0qtcSymDI)
+* [scrupting by blender manual ](https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/tools.html)
+* [Blender 2.8 Snake Hook](https://www.youtube.com/watch?v=sxpCN84kpPw)
+* []()
+* []()
+
+## [Artist Blog]
+* [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
+
+## [Misc]
+* [pixar in the box](https://www.khanacademy.org/partner-content/pixar)
