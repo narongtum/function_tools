@@ -4,6 +4,7 @@
 
 * :movie_camera: [Maya Offcial](#Maya Offcial)
 * :movie_camera: [Python](#Python)
+* :movie_camera: [Maya Pipeline Set](#Maya Pipeline Set)
 * :movie_camera: [Technical](#Technical)
 * :movie_camera: [Blender](#Blender)
 * :book: [บทความดีๆ](#บทความดีๆ)
@@ -36,5 +37,12 @@
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
 
+
+## [Maya Pipeline Set]
+* [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
+
+
 ## [Misc]
 * [pixar in the box](https://www.khanacademy.org/partner-content/pixar)
+
+
