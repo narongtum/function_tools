@@ -2,14 +2,15 @@
 
 # Saraban
 
-* :movie_camera: [Maya Offcial](#Maya Offcial)
+* :movie_camera: [Maya Offcial](#Maya_Offcial)
 * :movie_camera: [Python](#Python)
-* :movie_camera: [Maya Pipeline Set](#Maya Pipeline Set)
+* :movie_camera: [Maya Pipeline Set](#Maya_Pipeline_Set)
 * :movie_camera: [Technical](#Technical)
 * :movie_camera: [Blender](#Blender)
+* :book: [Free 3d model](#Free_3d_model)
 * :book: [บทความดีๆ](#บทความดีๆ)
 
-## [Maya Offcial] 
+## [Maya_Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
 * [Rigging and Animating a DOTA 2 Courier](https://www.youtube.com/watch?v=mPFasKnbSFc&list=PLTjhBiJe1i2GlZ96fHMj7aQO_YlsZFBBW&index=1)
 * [Maya Mash](https://www.youtube.com/watch?v=7GQK29ctz0A&list=PL8hZ6hQCGHMUn5NdkAQpWBG7xxGFP480q)
@@ -38,7 +39,7 @@
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
 
 
-## [Maya Pipeline Set]
+## [Maya_Pipeline_Set]
 * [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
 
 
@@ -46,3 +47,6 @@
 * [pixar in the box](https://www.khanacademy.org/partner-content/pixar)
 
 
+## [Free_3d_model]
+* [รวมลิงค์ model จาก blender bingo Lots of New 3D Public Domain Models - Awesome Resource](https://www.youtube.com/watch?v=83S2JndOR_c)
+* [smithsonion measuam](https://3d.si.edu/cc0)
