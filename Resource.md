@@ -44,9 +44,14 @@
 
 
 ## [Misc]
-* [pixar in the box](https://www.khanacademy.org/partner-content/pixar)
-
+* [Pixar in the box ของ khan academy](https://www.khanacademy.org/partner-content/pixar)
+* [git รวม link พวก tutorial ต่าง](https://github.com/adminho/learning-it#%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-ebooks-%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2)
 
 ## [Free_3d_model]
 * [รวมลิงค์ model จาก blender bingo Lots of New 3D Public Domain Models - Awesome Resource](https://www.youtube.com/watch?v=83S2JndOR_c)
 * [smithsonion measuam](https://3d.si.edu/cc0)
+* [3d lowpoly ฟรีจาก kenney](https://kenney.nl/assets/page:4?fbclid=IwAR0Ze4S8l-VWkEeqZ9sOK8_jxMTv25dIShjr8H-j1njtelESK_T0A7z2NOY)
+
+
+## [บทความดีๆ]
+
