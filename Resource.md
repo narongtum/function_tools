@@ -10,7 +10,7 @@
 * :book: [Free 3d model](#Free_3d_model)
 * :book: [บทความดีๆ](#บทความดีๆ)
 
-## [Maya_Offcial] 
+## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
 * [Rigging and Animating a DOTA 2 Courier](https://www.youtube.com/watch?v=mPFasKnbSFc&list=PLTjhBiJe1i2GlZ96fHMj7aQO_YlsZFBBW&index=1)
 * [Maya Mash](https://www.youtube.com/watch?v=7GQK29ctz0A&list=PL8hZ6hQCGHMUn5NdkAQpWBG7xxGFP480q)
