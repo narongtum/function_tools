@@ -3,6 +3,7 @@
 # Saraban
 
 * :movie_camera: [Maya Offcial](#Maya_Offcial)
+* :movie_camera: [Maya](#Maya)
 * :movie_camera: [Python](#Python)
 * :movie_camera: [Maya Pipeline Set](#Maya_Pipeline_Set)
 * :movie_camera: [Technical](#Technical)
@@ -15,6 +16,8 @@
 * [Rigging and Animating a DOTA 2 Courier](https://www.youtube.com/watch?v=mPFasKnbSFc&list=PLTjhBiJe1i2GlZ96fHMj7aQO_YlsZFBBW&index=1)
 * [Maya Mash](https://www.youtube.com/watch?v=7GQK29ctz0A&list=PL8hZ6hQCGHMUn5NdkAQpWBG7xxGFP480q)
 
+## [Maya]
+* [mayaspiral blogspot](http://mayaspiral.blogspot.com/2013/04/python-renamer-is-piece-of-cake.html)
 
 ## [Python]
 * [สอน python ของอาจารย์ประเสริฐ](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
@@ -49,9 +52,11 @@
 
 ## [Free_3d_model]
 * [รวมลิงค์ model จาก blender bingo Lots of New 3D Public Domain Models - Awesome Resource](https://www.youtube.com/watch?v=83S2JndOR_c)
-* [smithsonion measuam](https://3d.si.edu/cc0)
-* [3d lowpoly ฟรีจาก kenney](https://kenney.nl/assets/page:4?fbclid=IwAR0Ze4S8l-VWkEeqZ9sOK8_jxMTv25dIShjr8H-j1njtelESK_T0A7z2NOY)
+* [Smithsonian museum 3d object](https://3d.si.edu/cc0)
+* [3d lowpoly ฟรีจาก Kenney](https://kenney.nl/assets/page:4?fbclid=IwAR0Ze4S8l-VWkEeqZ9sOK8_jxMTv25dIShjr8H-j1njtelESK_T0A7z2NOY)
 
 
 ## [บทความดีๆ]
 
+* [บล๊อค john-player เกี่ยวกับ renamer tools](http://www.john-player.com/maya/rename-rename-an-object/)
+* [ไฟล์จัดแสงแบบต่างๆของ Turbosquid](https://www.turbosquid.com/3d-modeling/turbosquid/product-page/turbosquid-studio-scenes/?fbclid=IwAR3Lq573pXFd2uTDCTko_u8S2idVoEnOXW-cRt8aQtSdvoIPJxXTlnxVgYo)
