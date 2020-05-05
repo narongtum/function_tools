@@ -10,6 +10,7 @@
 * :movie_camera: [Blender](#Blender)
 * :book: [Free 3d model](#Free_3d_model)
 * :book: [บทความดีๆ](#บทความดีๆ)
+* :book: [free illustration](#ภาพประกอบฟรี)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -18,12 +19,12 @@
 
 ## [Maya]
 * [mayaspiral blogspot](http://mayaspiral.blogspot.com/2013/04/python-renamer-is-piece-of-cake.html)
-
+* [maya mel wiki](http://mayamel.tiddlyspot.com/)
 ## [Python]
 * [สอน python ของอาจารย์ประเสริฐ](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [สอน python ของอาจารย์สมชาย](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [สอน python ของ AL](https://automatetheboringstuff.com/)
-
+* [pipe line of Nitin Chhikara](http://www.nitinsingh.net/pipeline)
 
 ## [Technical]
 * [สอน python ของ AL](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
@@ -44,7 +45,7 @@
 
 ## [Maya_Pipeline_Set]
 * [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
-
+* [maya tools set](https://github.com/zethwillie/python_wip)
 
 ## [Misc]
 * [Pixar in the box ของ khan academy](https://www.khanacademy.org/partner-content/pixar)
@@ -60,3 +61,16 @@
 
 * [บล๊อค john-player เกี่ยวกับ renamer tools](http://www.john-player.com/maya/rename-rename-an-object/)
 * [ไฟล์จัดแสงแบบต่างๆของ Turbosquid](https://www.turbosquid.com/3d-modeling/turbosquid/product-page/turbosquid-studio-scenes/?fbclid=IwAR3Lq573pXFd2uTDCTko_u8S2idVoEnOXW-cRt8aQtSdvoIPJxXTlnxVgYo)
+* [google digital grage](https://learndigital.withgoogle.com/digitalgarage/courses?fbclid=IwAR0FAmeXO-g4mrS467eZHS6WMSNcuBQKuSnP6I_dVG4skxEfMmW-fOj2Z2U)
+
+## [ภาพประกอบฟรี]
+* [freeillustration](http://freeillustration.net/)
+* [irasutoya](https://www.irasutoya.com/)
+* [stockmaterial](https://stockmaterial.net/)
+* [jinbutuillust](http://jinbutuillust.businesscatalyst.com/)
+* [girlysozai](http://girlysozai.com/)
+* [illustrain](http://illustrain.com/)
+* [frame-illust](https://frame-illust.com/)
+* [pictcan](http://www.pictcan.com/)
+* [hankodeasobu](http://hankodeasobu.com/)
+* [pictogram2](http://pictogram2.com/)
