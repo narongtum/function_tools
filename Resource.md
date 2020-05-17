@@ -20,6 +20,7 @@
 ## [Maya]
 * [mayaspiral blogspot](http://mayaspiral.blogspot.com/2013/04/python-renamer-is-piece-of-cake.html)
 * [maya mel wiki](http://mayamel.tiddlyspot.com/)
+* [Python Programming for Maya Google group](https://groups.google.com/forum/#!forum/python_inside_maya)
 ## [Python]
 * [สอน python ของอาจารย์ประเสริฐ](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [สอน python ของอาจารย์สมชาย](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
@@ -41,6 +42,7 @@
 
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
+* [blog ของคุณ carltragardh](https://www.carltragardh.se/?page_id=529)
 
 
 ## [Maya_Pipeline_Set]
@@ -62,7 +64,7 @@
 * [บล๊อค john-player เกี่ยวกับ renamer tools](http://www.john-player.com/maya/rename-rename-an-object/)
 * [ไฟล์จัดแสงแบบต่างๆของ Turbosquid](https://www.turbosquid.com/3d-modeling/turbosquid/product-page/turbosquid-studio-scenes/?fbclid=IwAR3Lq573pXFd2uTDCTko_u8S2idVoEnOXW-cRt8aQtSdvoIPJxXTlnxVgYo)
 * [google digital grage](https://learndigital.withgoogle.com/digitalgarage/courses?fbclid=IwAR0FAmeXO-g4mrS467eZHS6WMSNcuBQKuSnP6I_dVG4skxEfMmW-fOj2Z2U)
-
+* [mesh topology ของ Turbosquid](https://www.turbosquid.com/3d-modeling/training/modeling/poles/?fbclid=IwAR317Jllg7AC83BndHN12gXNF0QEZXg_StQ-WpnOKP3b3PjYopUESl_hF-w)
 ## [ภาพประกอบฟรี]
 * [freeillustration](http://freeillustration.net/)
 * [irasutoya](https://www.irasutoya.com/)
@@ -74,3 +76,4 @@
 * [pictcan](http://www.pictcan.com/)
 * [hankodeasobu](http://hankodeasobu.com/)
 * [pictogram2](http://pictogram2.com/)
+* [character-design.squarespace.com](https://character-design.squarespace.com/art-of-animation?fbclid=IwAR1ygDUTvMwJh_78oBI9RRFUNbWL850-G9fAw9RY8FL3pY_MvV6r_TZ4xwM)
