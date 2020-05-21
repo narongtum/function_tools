@@ -11,6 +11,7 @@
 * :book: [Free 3d model](#Free_3d_model)
 * :book: [บทความดีๆ](#บทความดีๆ)
 * :book: [free illustration](#ภาพประกอบฟรี)
+* :book: [Model rigged](#ริกจากเทพริก)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -77,3 +78,8 @@
 * [hankodeasobu](http://hankodeasobu.com/)
 * [pictogram2](http://pictogram2.com/)
 * [character-design.squarespace.com](https://character-design.squarespace.com/art-of-animation?fbclid=IwAR1ygDUTvMwJh_78oBI9RRFUNbWL850-G9fAw9RY8FL3pY_MvV6r_TZ4xwM)
+
+## [ริกจากเทพริก]
+* [Christoph (The Stoff) Schoch](https://gumroad.com/thestoff)
+* [Kiel figgins](https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=Artists%2Fkielfiggins&fbclid=IwAR0vDZ6EWeAFxHZ2cfqjer0ImrElnc7fUeCRxJFBedQCLv2KV_UrHQztC5A)
+* [Truong CG Artist](https://gumroad.com/truongcgartist)
