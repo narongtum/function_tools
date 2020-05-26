@@ -27,6 +27,7 @@
 * [สอน python ของอาจารย์สมชาย](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [สอน python ของ AL](https://automatetheboringstuff.com/)
 * [pipe line of Nitin Chhikara](http://www.nitinsingh.net/pipeline)
+* [maya cloth rigging breakdown by Steve really nice and helpful](https://www.youtube.com/watch?v=rPK9wEZ76WI)
 
 ## [Technical]
 * [สอน python ของ AL](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
@@ -44,6 +45,8 @@
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
 * [blog ของคุณ carltragardh](https://www.carltragardh.se/?page_id=529)
+* [Dorota Sikorska](http://www.fairydora.com/ds_resources.html)
+* [บล็อกของ phyblas](https://phyblas.hinaboshi.com/maso14)
 
 
 ## [Maya_Pipeline_Set]
@@ -58,7 +61,7 @@
 * [รวมลิงค์ model จาก blender bingo Lots of New 3D Public Domain Models - Awesome Resource](https://www.youtube.com/watch?v=83S2JndOR_c)
 * [Smithsonian museum 3d object](https://3d.si.edu/cc0)
 * [3d lowpoly ฟรีจาก Kenney](https://kenney.nl/assets/page:4?fbclid=IwAR0Ze4S8l-VWkEeqZ9sOK8_jxMTv25dIShjr8H-j1njtelESK_T0A7z2NOY)
-
+* [3dmodelhaven](https://3dmodelhaven.com/models/?c=outdoor%20industrial)
 
 ## [บทความดีๆ]
 
@@ -79,7 +82,7 @@
 * [pictogram2](http://pictogram2.com/)
 * [character-design.squarespace.com](https://character-design.squarespace.com/art-of-animation?fbclid=IwAR1ygDUTvMwJh_78oBI9RRFUNbWL850-G9fAw9RY8FL3pY_MvV6r_TZ4xwM)
 
-## [ริกจากเทพริก]
+## [ฟรีริกจากเทพริก]
 * [Christoph (The Stoff) Schoch](https://gumroad.com/thestoff)
 * [Kiel figgins](https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=Artists%2Fkielfiggins&fbclid=IwAR0vDZ6EWeAFxHZ2cfqjer0ImrElnc7fUeCRxJFBedQCLv2KV_UrHQztC5A)
 * [Truong CG Artist](https://gumroad.com/truongcgartist)
