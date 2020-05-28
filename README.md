@@ -6,12 +6,12 @@
 * :movie_camera: [Maya](#Maya)
 * :movie_camera: [Python](#Python)
 * :movie_camera: [Maya Pipeline Set](#Maya_Pipeline_Set)
-* :movie_camera: [Technical](#Technical)
-* :movie_camera: [Blender](#Blender)
-* :book: [Free 3d model](#Free_3d_model)
-* :book: [บทความดีๆ](#บทความดีๆ)
+* :green_book: [Technical](#Technical)
+* :books: [Blender](#Blender)
+* :clipboard: [Free 3d model](#Free_3d_model)
+* :blue_book: [บทความดีๆ](#บทความดีๆ)
 * :book: [free illustration](#ภาพประกอบฟรี)
-* :book: [Model rigged](#ริกจากเทพริก)
+* :file_folder: [Model rigged](#ริกจากเทพริก)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
