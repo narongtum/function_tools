@@ -12,6 +12,7 @@
 * :blue_book: [บทความดีๆ](#บทความดีๆ)
 * :book: [free illustration](#ภาพประกอบฟรี)
 * :file_folder: [Model rigged](#ริกจากเทพริก)
+* :file_folder: [Free](#Free)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -28,7 +29,7 @@
 * [สอน python ของ AL](https://automatetheboringstuff.com/)
 * [pipe line of Nitin Chhikara](http://www.nitinsingh.net/pipeline)
 * [maya cloth rigging breakdown by Steve really nice and helpful](https://www.youtube.com/watch?v=rPK9wEZ76WI)
-
+* [Precedural rig framwork By Himanish Bhattacharya](http://animformed.github.io/constraining-transforms-to-a-shape-in-maya/)
 ## [Technical]
 * [สอน python ของ AL](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 
@@ -47,6 +48,7 @@
 * [blog ของคุณ carltragardh](https://www.carltragardh.se/?page_id=529)
 * [Dorota Sikorska](http://www.fairydora.com/ds_resources.html)
 * [บล็อกของ phyblas](https://phyblas.hinaboshi.com/maso14)
+* [เขาบอกว่าอย่า connect blendshape กับ controller](https://rigmarolestudio.com/blendshape_hooks/)
 
 
 ## [Maya_Pipeline_Set]
@@ -86,3 +88,7 @@
 * [Christoph (The Stoff) Schoch](https://gumroad.com/thestoff)
 * [Kiel figgins](https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=Artists%2Fkielfiggins&fbclid=IwAR0vDZ6EWeAFxHZ2cfqjer0ImrElnc7fUeCRxJFBedQCLv2KV_UrHQztC5A)
 * [Truong CG Artist](https://gumroad.com/truongcgartist)
+
+
+## [Free]
+* [Antcgi บน cubebrush มีfree Rig & Model มากมาย](https://cubebrush.co/antcgi)
