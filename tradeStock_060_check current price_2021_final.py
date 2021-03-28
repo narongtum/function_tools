@@ -18,7 +18,8 @@ import urllib.request
 # import pandas as pd
 import requests
 import os 
-
+import time
+import random
 
 
 
@@ -38,7 +39,7 @@ stock_dict = {    'LALIN':[8.91, 11.20, 11.50]      ,
 
 
 
-
+SENT_TO_LINE = True
 symbols = stock_dict.keys()
 
 
@@ -50,6 +51,8 @@ stock_word = []
 #each_symbol = 'LALIN'
  
 for each_symbol in symbols:
+
+	#time.sleep(random.randint(2, 5))
 
 	url_string = "https://marketdata.set.or.th/mkt/stockquotation.do?symbol={0}&language=en&country=US".format(each_symbol)
 	
@@ -99,12 +102,14 @@ for each_symbol in symbols:
 		
 	elif latest_value < stock_dict[each_symbol][1]: # min val
 		#print('{0}: {1} is inbetween it should buy. !!!'.format(each_symbol,latest_value))
-		word = '{0}: {1} is less than min ({2}) it should Buy. ?'.format(each_symbol,latest_value,stock_dict[each_symbol][1])
+		minus  = stock_dict[each_symbol][1] - latest_value
+		word = '{0}: {1} is less than min ({2}, -{3}) it should Buy. ?'.format(each_symbol, latest_value, stock_dict[each_symbol][1], minus)
 		stock_word.append('\n'+word+'\n')
 		
 	elif latest_value > stock_dict[each_symbol][2]: # max val
+		minus  = latest_value - stock_dict[each_symbol][2]		
 		#print('{0}: {1} is inbetween it should sell.!'.format(each_symbol,latest_value))
-		word = '{0}: {1} is morn then max ({2}) it should Sell. ?'.format(each_symbol,latest_value,stock_dict[each_symbol][2])
+		word = '{0}: {1} is morn then max ({2}, +{3}) it should Sell. ?'.format(each_symbol, latest_value, stock_dict[each_symbol][2], minus)
 		stock_word.append('\n'+word+'\n')
 	elif latest_value == 0:
 		print ('latest value equal zero try next time.')
@@ -125,17 +130,21 @@ else:
 print ('Print complete.')
 
 
+if SENT_TO_LINE:
+	
+	if stock_word:
+	
+		token = 'nLDAN5v096kqehdW01gXoZaMdm7Jwd6PTOpISB9IFun'
+	
+		url = 'https://notify-api.line.me/api/notify'
+	
+		headers = {'content-type':'application/x-www-form-urlencoded','Authorization':'Bearer '+token}
+	
+		r = requests.post(url, headers=headers, data = {'message':stock_word})
+		print (r.text)
+else:
+	pass
 
-if stock_word:
-
-	token = 'nLDAN5v096kqehdW01gXoZaMdm7Jwd6PTOpISB9IFun'
-
-	url = 'https://notify-api.line.me/api/notify'
-
-	headers = {'content-type':'application/x-www-form-urlencoded','Authorization':'Bearer '+token}
-
-	r = requests.post(url, headers=headers, data = {'message':stock_word})
-	print (r.text)
 
 
 
