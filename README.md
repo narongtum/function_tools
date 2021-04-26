@@ -41,7 +41,7 @@
 * [scrupting by blender manual ](https://docs.blender.org/manual/en/latest/sculpt_paint/sculpting/tools.html)
 * [Blender 2.8 Snake Hook](https://www.youtube.com/watch?v=sxpCN84kpPw)
 * [AUTOREMESHER](https://github.com/huxingyi/autoremesher)
-* []()
+* [Softwrap](https://jeacom25b.github.io/Softwrap-Manual/tutorials/?fbclid=IwAR1EdbYb1gaXC3w-eb1Ynn63nsmWZObjLhiElIRRcHTWW9aWKinbi9xs7s4)
 
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
