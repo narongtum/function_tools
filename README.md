@@ -28,6 +28,7 @@
 * [Python Programming for Maya Google group](https://groups.google.com/forum/#!forum/python_inside_maya)
 * [maya retopo tools](https://www.playcreative.io/blog/auto-retopology-comes-to-maya)
 
+
 ## [Python]
 * [สอน python ของอาจารย์ประเสริฐ](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [สอน python ของอาจารย์สมชาย](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
@@ -47,7 +48,7 @@
 * [Blender 2.8 Snake Hook](https://www.youtube.com/watch?v=sxpCN84kpPw)
 * [AUTOREMESHER](https://github.com/huxingyi/autoremesher)
 * [Softwrap Retopoอีกแบบ](https://jeacom25b.github.io/Softwrap-Manual/tutorials/?fbclid=IwAR1EdbYb1gaXC3w-eb1Ynn63nsmWZObjLhiElIRRcHTWW9aWKinbi9xs7s4)
-
+* [Free Auto Retopology with Instant Meshes](https://www.youtube.com/watch?v=bsRuRivuz8M)
 
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
@@ -94,7 +95,7 @@
 * [hankodeasobu](http://hankodeasobu.com/)
 * [pictogram2](http://pictogram2.com/)
 * [character-design.squarespace.com](https://character-design.squarespace.com/art-of-animation?fbclid=IwAR1ygDUTvMwJh_78oBI9RRFUNbWL850-G9fAw9RY8FL3pY_MvV6r_TZ4xwM)
-
+* [Welcome to rigging | Rigging | Computer animation | Khan Academy](https://www.youtube.com/watch?v=QOc8PMB7GWU)
 
 ## [ฟรีริกจากเทพริก]
 * [Christoph (The Stoff) Schoch](https://gumroad.com/thestoff)
