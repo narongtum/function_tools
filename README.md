@@ -27,6 +27,8 @@
 * [maya mel wiki](http://mayamel.tiddlyspot.com/)
 * [Python Programming for Maya Google group](https://groups.google.com/forum/#!forum/python_inside_maya)
 * [maya retopo tools](https://www.playcreative.io/blog/auto-retopology-comes-to-maya)
+* [ทำกระโปรงตามขา](https://www.lilingliu.com/post/skirt-rig-with-auto-collision)
+
 
 
 ## [Python]
@@ -40,6 +42,9 @@
 * [สอน python ของ AL](https://www.youtube.com/watch?v=qUlI5vX6aNo&list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 
 
+
+
+
 ## [Blender]
 * [simulate หมอนโซฟา](https://www.youtube.com/watch?v=V1HxV1aEBik&feature=youtu.be&fbclid=IwAR2O50I_D0aD4ksXZgwh1m0tkYM1X2azYHYR7ns_2I4EQWVnryy0QRIdhg4)
 * [ทำลูกโป่งอัดลม](https://www.youtube.com/watch?v=QxQ1GIGwslk)
@@ -49,6 +54,13 @@
 * [AUTOREMESHER](https://github.com/huxingyi/autoremesher)
 * [Softwrap Retopoอีกแบบ](https://jeacom25b.github.io/Softwrap-Manual/tutorials/?fbclid=IwAR1EdbYb1gaXC3w-eb1Ynn63nsmWZObjLhiElIRRcHTWW9aWKinbi9xs7s4)
 * [Free Auto Retopology with Instant Meshes](https://www.youtube.com/watch?v=bsRuRivuz8M)
+* [Rendering Freestyle with Eevee in Blender](https://www.youtube.com/watch?v=ajIjebE6vko)
+
+
+
+
+
+
 
 ## [Artist Blog]
 * [blog ของคุณนิลกาฬ](https://ninlagarn.wordpress.com/2016/01/05/basic-qt-ui-for-maya-with-pysidepyqt/)
@@ -58,6 +70,7 @@
 * [เขาบอกว่าอย่า connect blendshape กับ controller](https://rigmarolestudio.com/blendshape_hooks/)
 
 
+
 ## [Maya_Pipeline_Set]
 * [bungnoid/glTools: Maya Python Tools - GitHub](https://github.com/bungnoid/glTools)
 * [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
@@ -65,9 +78,18 @@
 * [hongloull/digital37](https://github.com/hongloull/digital37)
 
 
+
+
+
 ## [Misc]
 * [Pixar in the box ของ khan academy](https://www.khanacademy.org/partner-content/pixar)
 * [git รวม link พวก tutorial ต่าง](https://github.com/adminho/learning-it#%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-ebooks-%E0%B8%9F%E0%B8%A3%E0%B8%B5-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2)
+* [Free Auto Retopology with Instant Meshes](https://www.youtube.com/watch?v=bsRuRivuz8M)
+
+
+
+
+
 
 
 ## [Free_3d_model]
@@ -76,6 +98,12 @@
 * [3d lowpoly ฟรีจาก Kenney](https://kenney.nl/assets/page:4?fbclid=IwAR0Ze4S8l-VWkEeqZ9sOK8_jxMTv25dIShjr8H-j1njtelESK_T0A7z2NOY)
 * [3dmodelhaven](https://3dmodelhaven.com/models/?c=outdoor%20industrial)
 * [Poland museum 3d object](https://sketchfab.com/WirtualneMuzeaMalopolski/models)
+* [Free Hand Topology Model](https://80.lv/articles/free-hand-topology-model/)
+
+
+
+
+
 
 
 ## [บทความดีๆ]
@@ -101,6 +129,9 @@
 * [Christoph (The Stoff) Schoch](https://gumroad.com/thestoff)
 * [Kiel figgins](https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=Artists%2Fkielfiggins&fbclid=IwAR0vDZ6EWeAFxHZ2cfqjer0ImrElnc7fUeCRxJFBedQCLv2KV_UrHQztC5A)
 * [Truong CG Artist](https://gumroad.com/truongcgartist)
+* [Lou Rig](https://gumroad.com/l/ikrQP)
+* [BANDAI NAMCO STUDIOS (BNS) RIG](https://www.gameanim.com/2020/04/07/bandai-namco-studios-rig/?fbclid=IwAR2c9FY1HuuKAeEeTFrIIBvjTYlSJb3W6qTCLLhkMr04omqw5le9yV2b6Io)
+
 
 
 ## [Free]
