@@ -55,8 +55,7 @@
 * [Softwrap Retopoอีกแบบ](https://jeacom25b.github.io/Softwrap-Manual/tutorials/?fbclid=IwAR1EdbYb1gaXC3w-eb1Ynn63nsmWZObjLhiElIRRcHTWW9aWKinbi9xs7s4)
 * [Free Auto Retopology with Instant Meshes](https://www.youtube.com/watch?v=bsRuRivuz8M)
 * [Rendering Freestyle with Eevee in Blender](https://www.youtube.com/watch?v=ajIjebE6vko)
-
-
+* [Gameboy model](https://www.youtube.com/watch?v=mapuLpQNSAw&list=PLQWjnv7pHM94xMJAic-Pl-hHdeQVAXojW&index=5&t=269s)
 
 
 
@@ -68,9 +67,9 @@
 * [Dorota Sikorska](http://www.fairydora.com/ds_resources.html)
 * [บล็อกของ phyblas](https://phyblas.hinaboshi.com/maso14)
 * [เขาบอกว่าอย่า connect blendshape กับ controller](https://rigmarolestudio.com/blendshape_hooks/)
-
-
-
+* [เขาบอกว่าอย่าใช้ follicel](https://rigmarolestudio.com/matrix-pinning-to-surface-in-maya/)
+* [Tech Art เทพ](http://www.chrisevans3d.com/pub_blog/)
+* [bindpose.com](https://bindpose.com/category/rigging/)
 ## [Maya_Pipeline_Set]
 * [bungnoid/glTools: Maya Python Tools - GitHub](https://github.com/bungnoid/glTools)
 * [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
