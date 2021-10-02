@@ -14,7 +14,7 @@
 * :book: [free illustration](#ภาพประกอบฟรี)
 * :file_folder: [Model rigged](#ริกจากเทพริก)
 * :file_folder: [Free](#Free)
-
+* :file_folder: [GOD Artist](#GOD_Artist)
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -135,3 +135,7 @@
 
 ## [Free]
 * [Antcgi บน cubebrush มีfree Rig & Model มากมาย](https://cubebrush.co/antcgi)
+
+
+## [GOD Artist]
+* [Perry leijten เมพ Technical Artist](https://www.perryleijten.com/)
