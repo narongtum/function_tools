@@ -137,5 +137,5 @@
 * [Antcgi บน cubebrush มีfree Rig & Model มากมาย](https://cubebrush.co/antcgi)
 
 
-## [GOD Artist]
+## [GOD_Artist]
 * [Perry leijten เมพ Technical Artist](https://www.perryleijten.com/)
