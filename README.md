@@ -14,7 +14,11 @@
 * :book: [free illustration](#ภาพประกอบฟรี)
 * :file_folder: [Model rigged](#ริกจากเทพริก)
 * :file_folder: [Free](#Free)
+* :file_folder: [GitHub](#GitHub)
 * :file_folder: [GOD_Artist](#GOD_Artist)
+
+
+
 
 ## [Maya Offcial] 
 * [Maya Rigging Maya Learning Channel maya basic Rigging](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
@@ -135,6 +139,14 @@
 
 ## [Free]
 * [Antcgi บน cubebrush มีfree Rig & Model มากมาย](https://cubebrush.co/antcgi)
+
+
+## [GitHub]
+* [Pavel Sevets](https://github.com/SEVEZ?tab=repositories)
+* [Chad vernom](https://github.com/chadmv/cvshapeinverter)
+* [bungnoid](https://github.com/bungnoid/glTools)
+* [zMayaTools](https://github.com/zewt/zMayaTools)
+* [hongloull](https://github.com/hongloull/digital37)
 
 
 ## [GOD_Artist]
