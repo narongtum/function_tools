@@ -32,7 +32,7 @@
 * [Python Programming for Maya Google group](https://groups.google.com/forum/#!forum/python_inside_maya)
 * [maya retopo tools](https://www.playcreative.io/blog/auto-retopology-comes-to-maya)
 * [ทำกระโปรงตามขา](https://www.lilingliu.com/post/skirt-rig-with-auto-collision)
-
+* [ทำ ribbon พริ้วๆแบบใส่ deformer](https://www.riganimator.com/procedural-ribbon/)
 
 
 ## [Python]
@@ -79,7 +79,7 @@
 * [git hub ของคุณ jason parks](https://github.com/CountZer0/PipelineConstructionSet)
 * [maya tools set](https://github.com/zethwillie/python_wip)
 * [hongloull/digital37](https://github.com/hongloull/digital37)
-
+* [Niels Vaes](http://nielsvaes.be/posts/save_hard_edges/)
 
 
 
@@ -147,6 +147,7 @@
 * [bungnoid](https://github.com/bungnoid/glTools)
 * [zMayaTools](https://github.com/zewt/zMayaTools)
 * [hongloull](https://github.com/hongloull/digital37)
+* [maya pipeline tools](https://github.com/TrevisanGMW/gt-tools)
 
 
 ## [GOD_Artist]
